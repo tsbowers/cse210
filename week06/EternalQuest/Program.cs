@@ -1,3 +1,8 @@
+using System
+""" 
+author - Trevor Bowers
+Purpose - Eternal Quest
+"""
 class Program
 {
     static void Main()
